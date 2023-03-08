@@ -98,6 +98,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: keep
+base_info:
+  title: Eas Blog
+  author: XGreen
+  url: https://blog.eeasee.xyz/
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
